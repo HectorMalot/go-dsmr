@@ -1,3 +1,3 @@
-module github.com/roaldnefs/go-dsmr
+module github.com/hectormalot/go-dsmr
 
-go 1.13
+go 1.14
